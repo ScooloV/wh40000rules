@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/the-turn/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/death-from-the-skies/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/the-turn/the-movement-phase/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/the-turn/the-psychic-phase/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/the-turn/the-shooting-phase/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/the-turn/the-assault-phase/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/infantry/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/bikes-jetbikes/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/artillery/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/jump-units/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/jet-pack-units/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/monstrous-creatures/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/beasts/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/cavalry/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/flying-monstrous-creatures/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/unit-types/gargantuan-flying-gargantuan-creatures/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/transports/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/flyers/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/chariots/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/open-topped-vehicles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/heavy-vehicles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/fast-vehicles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/skimmers/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/walkers/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/tanks/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/super-heavy-vehicles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/super-heavy-walkers/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/super-heavy-flyers/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/vehicles/vehicle-upgrades/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/weapons/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/ranged-weapons/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/melee-weapons/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/grenades/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/home-page/about/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/home-page/books/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/home-page/feedback/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adepta-sororitas/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adepta-sororitas/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adepta-sororitas/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adepta-sororitas/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adepta-sororitas/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adepta-sororitas/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adeptus-custodes/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adeptus-custodes/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adeptus-custodes/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adeptus-custodes/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/adeptus-custodes/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/aeronautica-imperialis/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/astra-militarum/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/astra-militarum/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/astra-militarum/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/astra-militarum/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/astra-militarum/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/astra-militarum/cadia/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/astra-telepathica/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/blood-angels/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/blood-angels/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/blood-angels/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/blood-angels/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/blood-angels/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/blood-angels/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/blood-angels/archangels/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/blood-angels/death-company/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/blood-angels/flesh-tearers/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-daemons/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-daemons/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-daemons/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-daemons/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-daemons/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-daemons/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-daemons/daemons-of-tzeentch/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/alpha-legion/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/black-legion/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/crimson-slaughter/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/death-guard/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/emperor-s-children/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/iron-warriors/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/night-lords/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/thousand-sons/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/word-bearers/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/chaos-space-marines/world-eaters/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/cult-mechanicus/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/cult-mechanicus/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/cult-mechanicus/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/cult-mechanicus/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/cult-mechanicus/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-angels/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-angels/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-angels/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-angels/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-angels/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-eldar/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-eldar/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-eldar/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-eldar/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-eldar/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/dark-eldar/haemonculus-covens/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/deathwatch/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/deathwatch/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/deathwatch/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/deathwatch/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/deathwatch/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/eldar/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/eldar/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/eldar/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/eldar/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/eldar/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/eldar/iyanden/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/eldar/ulthwe/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/fallen-angels/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/genestealer-cults/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/genestealer-cults/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/genestealer-cults/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/genestealer-cults/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/genestealer-cults/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/grey-knights/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/grey-knights/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/grey-knights/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/grey-knights/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/grey-knights/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/harlequins/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/harlequins/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/harlequins/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/harlequins/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/harlequins/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/imperial-agents/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/imperial-agents/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/imperial-agents/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/imperial-knights/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/imperial-knights/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/imperial-knights/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/imperial-knights/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/imperial-knights/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/imperial-knights/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/inquisition/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/inquisition/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/inquisition/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/inquisition/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/inquisition/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/khorne-daemonkin/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/khorne-daemonkin/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/khorne-daemonkin/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/khorne-daemonkin/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/khorne-daemonkin/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/legion-of-the-damned/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/legion-of-the-damned/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/legion-of-the-damned/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/legion-of-the-damned/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/legion-of-the-damned/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/legion-of-the-damned/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/militarum-tempestus/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/militarum-tempestus/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/militarum-tempestus/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/militarum-tempestus/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/militarum-tempestus/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/necrons/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/necrons/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/necrons/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/necrons/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/necrons/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/necrons/mephrit-dynasty/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/officio-assassinorum/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/officio-assassinorum/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/officio-assassinorum/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/officio-assassinorum/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/officio-assassinorum/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/orks/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/orks/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/orks/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/orks/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/orks/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/orks/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/orks/ork-dread-mob/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/orks/ghazghkull/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/renegade-knights/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/renegade-knights/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/renegade-knights/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/renegade-knights/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/renegade-knights/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/skitarii/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/skitarii/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/skitarii/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/skitarii/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/skitarii/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/sisters-of-silence/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/sisters-of-silence/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/sisters-of-silence/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/sisters-of-silence/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/sisters-of-silence/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/imperial-fists/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/iron-hands/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/raven-guard/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/salamanders/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/ultramarines/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-marines/white-scars/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-wolves/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-wolves/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-wolves/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-wolves/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-wolves/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-wolves/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/space-wolves/champions-of-fenris/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tau/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tau/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tau/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tau/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tau/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tau/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tau/farsight-enclaves/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tyranids/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tyranids/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tyranids/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tyranids/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tyranids/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/tyranids/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/ynnari/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/ynnari/structure/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/ynnari/profiles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/ynnari/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/codices/ynnari/wargear/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/models-and-units/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/general-principles/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/morale/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/characters/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/characters/challenges/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/battlefield-terrain/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/battlefield-terrain/types-of-terrain/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/battlefield-terrain/buildings/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/choosing-your-army/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/choosing-your-army/the-warlord/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/the-rules/preparing-for-battle/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/apocalypse/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/apocalypse/apocalypse-formations/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/apocalypse/apocalypse-missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/apocalypse/mission-special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/apocalypse/strategic-asset-cards/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/death-from-the-skies/flyer-wings/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/death-from-the-skies/wing-leaders/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/death-from-the-skies/air-war-missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/kill-team/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/kill-team/kill-team-missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/planetary-onslaught/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/planetary-onslaught/planetstrike/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/planetary-onslaught/siege-war/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/expansions/planetary-onslaught/cities-of-death/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/missions/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/missions/eternal-war/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/missions/maelstrom-of-war/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/missions/carnage-4-player-mission/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/missions/cataclysm-of-war/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/missions/gathering-the-storm/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/special-rules/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/terrain-datasheets/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/appendix/psychic-disciplines/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://scoolov.github.io/wh40000rules/home-page/</loc>
+  <lastmod>2023-05-14T14:43:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
